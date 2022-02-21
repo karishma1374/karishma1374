@@ -1,6 +1,6 @@
 - 🙋 Hi there ! I’m Karishma✨
 - 🌥 I’m interested in  Google cloud Platform & 🧠Problem Solving using Data structures and Algorithms
-- 🌱 I’m currently learning Dynamic Programming and  Memoization concepts. 
+- 🌱 I’m currently a SAMSUNG PRISM INTERN 
 - 🎯 I’m currently working on various projects that is going to be uploaded soon.
 - 📲 You can find me on https://www.linkedin.com/in/karishma-kumari-5808b7199/
 
