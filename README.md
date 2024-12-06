@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 </p>
 
-<h1 align="center">Hey there! 👋 I'm Karishma!</h1>
+<h1 align="center">He there! 👋 I'm Karishma!</h1>
 
 <!-- Brief about me -->
 <p align="center">
